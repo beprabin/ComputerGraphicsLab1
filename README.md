@@ -3,7 +3,7 @@ Graphics Java Examples
 
 1.Program to draw a line, draw a rectangle, drawing a round rectangle, setting font color using java constructor.
 
-2. Program for drawing polygon.
+2.Program for drawing polygon.
 
 3.Program for basic stroke constructor for drawing various styles of line[board exam].
 
